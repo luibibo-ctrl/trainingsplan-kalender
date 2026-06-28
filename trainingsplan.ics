@@ -1,1122 +1,559 @@
 BEGIN:VCALENDAR
-
 VERSION:2.0
-
 PRODID:-//GarminCoach//Trainingsplan//DE
-
 CALSCALE:GREGORIAN
-
 METHOD:PUBLISH
-
 X-WR-CALNAME:Training & Fußball
-
 X-WR-TIMEZONE:Europe/Berlin
-
-REFRESH-INTERVAL;VALUE=DURATION:PT6H
-
-X-PUBLISHED-TTL:PT6H
-
 BEGIN:VEVENT
-
-UID:2026-07-02-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
-DTSTART:20260702T190000
-
-DTEND:20260702T201500
-
 SUMMARY:📋 Kick-off Meeting
-
+DTSTART:20260702T190000
+DTEND:20260702T201500
+DTSTAMP:20260628T213359Z
+UID:2026-07-02-fb@garmincoach
 LOCATION:Marienborn
-
 BEGIN:VALARM
-
-TRIGGER:-PT3H
-
 ACTION:DISPLAY
-
 DESCRIPTION:📋 Kick-off Meeting
-
+TRIGGER:-PT3H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-03-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🟢 Training
 DTSTART:20260703T184500
-
 DTEND:20260703T200000
-
-SUMMARY:🟢 Training
-
+DTSTAMP:20260628T213359Z
+UID:2026-07-03-fb@garmincoach
 LOCATION:Marienborn
-
 BEGIN:VALARM
-
-TRIGGER:-PT3H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🟢 Training
-
+TRIGGER:-PT3H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-05-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🟢 Training
 DTSTART:20260705T110000
-
 DTEND:20260705T121500
-
-SUMMARY:🟢 Training
-
+DTSTAMP:20260628T213359Z
+UID:2026-07-05-fb@garmincoach
 LOCATION:Marienborn
-
 BEGIN:VALARM
-
-TRIGGER:-PT3H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🟢 Training
-
+TRIGGER:-PT3H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-07-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
-DTSTART:20260707T193000
-
-DTEND:20260707T210000
-
 SUMMARY:⚽ Spiel: Wackernheim
-
+DTSTART:20260707T193000
+DTEND:20260707T210000
+DTSTAMP:20260628T213359Z
+UID:2026-07-07-fb@garmincoach
 LOCATION:Auswärts
-
 BEGIN:VALARM
-
-TRIGGER:-PT3H
-
 ACTION:DISPLAY
-
 DESCRIPTION:⚽ Spiel: Wackernheim
-
+TRIGGER:-PT3H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-09-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🟢 Training
 DTSTART:20260709T193000
-
 DTEND:20260709T204500
-
-SUMMARY:🟢 Training
-
+DTSTAMP:20260628T213359Z
+UID:2026-07-09-fb@garmincoach
 LOCATION:Marienborn
-
 BEGIN:VALARM
-
-TRIGGER:-PT3H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🟢 Training
-
+TRIGGER:-PT3H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-10-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🟢 Training (Trainings-WE)
 DTSTART:20260710T184500
-
 DTEND:20260710T200000
-
-SUMMARY:🟢 Training (Trainings-WE)
-
+DTSTAMP:20260628T213359Z
+UID:2026-07-10-fb@garmincoach
 LOCATION:Marienborn
-
 BEGIN:VALARM
-
-TRIGGER:-PT3H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🟢 Training (Trainings-WE)
-
+TRIGGER:-PT3H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-11-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
-DTSTART:20260711T110000
-
-DTEND:20260711T123000
-
 SUMMARY:⚽ Spiel: Saulheim + Training
-
+DTSTART:20260711T110000
+DTEND:20260711T123000
+DTSTAMP:20260628T213359Z
+UID:2026-07-11-fb@garmincoach
 LOCATION:Saulheim
-
 BEGIN:VALARM
-
-TRIGGER:-PT3H
-
 ACTION:DISPLAY
-
 DESCRIPTION:⚽ Spiel: Saulheim + Training
-
+TRIGGER:-PT3H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-12-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
-DTSTART:20260712T110000
-
-DTEND:20260712T121500
-
 SUMMARY:🟢 Training (Trainings-WE)
-
+DTSTART:20260712T110000
+DTEND:20260712T121500
+DTSTAMP:20260628T213359Z
+UID:2026-07-12-fb@garmincoach
 LOCATION:Marienborn
-
 BEGIN:VALARM
-
-TRIGGER:-PT3H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🟢 Training (Trainings-WE)
-
+TRIGGER:-PT3H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-14-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🟢 Training
 DTSTART:20260714T193000
-
 DTEND:20260714T204500
-
-SUMMARY:🟢 Training
-
+DTSTAMP:20260628T213359Z
+UID:2026-07-14-fb@garmincoach
 LOCATION:Marienborn
-
 BEGIN:VALARM
-
-TRIGGER:-PT3H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🟢 Training
-
+TRIGGER:-PT3H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-16-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
-DTSTART:20260716T193000
-
-DTEND:20260716T210000
-
 SUMMARY:⚽ Spiel: Schwabsburg
-
+DTSTART:20260716T193000
+DTEND:20260716T210000
+DTSTAMP:20260628T213359Z
+UID:2026-07-16-fb@garmincoach
 LOCATION:Schwabsburg
-
 BEGIN:VALARM
-
-TRIGGER:-PT3H
-
 ACTION:DISPLAY
-
 DESCRIPTION:⚽ Spiel: Schwabsburg
-
+TRIGGER:-PT3H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-17-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🟢 Training
 DTSTART:20260717T184500
-
 DTEND:20260717T200000
-
-SUMMARY:🟢 Training
-
+DTSTAMP:20260628T213359Z
+UID:2026-07-17-fb@garmincoach
 LOCATION:Marienborn
-
 BEGIN:VALARM
-
-TRIGGER:-PT3H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🟢 Training
-
+TRIGGER:-PT3H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-18-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🏆 Sportwoche SVW
 DTSTART;VALUE=DATE:20260718
-
 DTEND;VALUE=DATE:20260719
-
-SUMMARY:🏆 Sportwoche SVW
-
+DTSTAMP:20260628T213359Z
+UID:2026-07-18-fb@garmincoach
 LOCATION:Weisenau
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-19-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🏆 Sportwoche SVW
 DTSTART;VALUE=DATE:20260719
-
 DTEND;VALUE=DATE:20260720
-
-SUMMARY:🏆 Sportwoche SVW
-
+DTSTAMP:20260628T213359Z
+UID:2026-07-19-fb@garmincoach
 LOCATION:Weisenau
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-21-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🟢 Training
 DTSTART:20260721T193000
-
 DTEND:20260721T204500
-
-SUMMARY:🟢 Training
-
+DTSTAMP:20260628T213359Z
+UID:2026-07-21-fb@garmincoach
 LOCATION:Marienborn
-
 BEGIN:VALARM
-
-TRIGGER:-PT3H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🟢 Training
-
+TRIGGER:-PT3H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-23-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🟢 Training
 DTSTART:20260723T193000
-
 DTEND:20260723T204500
-
-SUMMARY:🟢 Training
-
+DTSTAMP:20260628T213359Z
+UID:2026-07-23-fb@garmincoach
 LOCATION:Marienborn
-
 BEGIN:VALARM
-
-TRIGGER:-PT3H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🟢 Training
-
+TRIGGER:-PT3H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-24-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🟢 Training
 DTSTART:20260724T184500
-
 DTEND:20260724T200000
-
-SUMMARY:🟢 Training
-
+DTSTAMP:20260628T213359Z
+UID:2026-07-24-fb@garmincoach
 LOCATION:Marienborn
-
 BEGIN:VALARM
-
-TRIGGER:-PT3H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🟢 Training
-
+TRIGGER:-PT3H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-25-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
-DTSTART;VALUE=DATE:20260725
-
-DTEND;VALUE=DATE:20260726
-
 SUMMARY:🏆 Sportwoche SVW
-
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+DTSTAMP:20260628T213359Z
+UID:2026-07-25-fb@garmincoach
 LOCATION:Weisenau
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-26-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
-DTSTART;VALUE=DATE:20260726
-
-DTEND;VALUE=DATE:20260727
-
 SUMMARY:⚽ Testspiel KleWi / Sportwoche-Finale
-
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+DTSTAMP:20260628T213359Z
+UID:2026-07-26-fb@garmincoach
 LOCATION:Auswärts
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-28-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🟢 Training
 DTSTART:20260728T193000
-
 DTEND:20260728T204500
-
-SUMMARY:🟢 Training
-
+DTSTAMP:20260628T213359Z
+UID:2026-07-28-fb@garmincoach
 LOCATION:Marienborn
-
 BEGIN:VALARM
-
-TRIGGER:-PT3H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🟢 Training
-
+TRIGGER:-PT3H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-30-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🟢 Training
 DTSTART:20260730T193000
-
 DTEND:20260730T204500
-
-SUMMARY:🟢 Training
-
+DTSTAMP:20260628T213359Z
+UID:2026-07-30-fb@garmincoach
 LOCATION:Marienborn
-
 BEGIN:VALARM
-
-TRIGGER:-PT3H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🟢 Training
-
+TRIGGER:-PT3H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-31-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🟢 Training
 DTSTART:20260731T184500
-
 DTEND:20260731T200000
-
-SUMMARY:🟢 Training
-
+DTSTAMP:20260628T213359Z
+UID:2026-07-31-fb@garmincoach
 LOCATION:Marienborn
-
 BEGIN:VALARM
-
-TRIGGER:-PT3H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🟢 Training
-
+TRIGGER:-PT3H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-08-02-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
-DTSTART;VALUE=DATE:20260802
-
-DTEND;VALUE=DATE:20260803
-
 SUMMARY:⚽ 1. Punktspiel (Landesliga Ost)
-
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+DTSTAMP:20260628T213359Z
+UID:2026-08-02-fb@garmincoach
 LOCATION:?
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-08-04-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🟢 Training
 DTSTART:20260804T193000
-
 DTEND:20260804T204500
-
-SUMMARY:🟢 Training
-
+DTSTAMP:20260628T213359Z
+UID:2026-08-04-fb@garmincoach
 LOCATION:Marienborn
-
 BEGIN:VALARM
-
-TRIGGER:-PT3H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🟢 Training
-
+TRIGGER:-PT3H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-08-06-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🟢 Training
 DTSTART:20260806T193000
-
 DTEND:20260806T204500
-
-SUMMARY:🟢 Training
-
+DTSTAMP:20260628T213359Z
+UID:2026-08-06-fb@garmincoach
 LOCATION:Marienborn
-
 BEGIN:VALARM
-
-TRIGGER:-PT3H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🟢 Training
-
-END:VALARM
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:2026-08-07-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
-DTSTART:20260807T180000
-
-DTEND:20260807T191500
-
-SUMMARY:🟢 Training + Einstand
-
-LOCATION:Marienborn
-
-BEGIN:VALARM
-
 TRIGGER:-PT3H
-
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🟢 Training + Einstand
+DTSTART:20260807T180000
+DTEND:20260807T191500
+DTSTAMP:20260628T213359Z
+UID:2026-08-07-fb@garmincoach
+LOCATION:Marienborn
+BEGIN:VALARM
 ACTION:DISPLAY
-
 DESCRIPTION:🟢 Training + Einstand
-
+TRIGGER:-PT3H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-08-09-fb@garmincoach
-
-DTSTAMP:20260627T171541Z
-
-DTSTART;VALUE=DATE:20260809
-
-DTEND;VALUE=DATE:20260810
-
 SUMMARY:⚽ 2. Punktspiel
-
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+DTSTAMP:20260628T213359Z
+UID:2026-08-09-fb@garmincoach
 LOCATION:?
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-06-27-home@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🏋️ W1 – Oberkörper komplett (Push-Akzent)
 DTSTART;VALUE=DATE:20260627
-
 DTEND;VALUE=DATE:20260628
-
-SUMMARY:🏋️ W1 – Oberkörper komplett (Push-Akzent)
-
-DESCRIPTION:~20 Min\nTempo: hoch explosiv\, runter langsam · submaxima
-
- l\n\n• Liegestütze (explosiv hoch\, langsam runter) – 4×8–12\n• Klimm
-
- züge – 3×submaximal\n• Hantel-Schulterdrücken – 3×10–12\n• Dips an zw
-
- ei Stühlen – 3×8–12\n• Plank – 2×40 s
-
+DTSTAMP:20260628T213359Z
+UID:2026-06-27-home@garmincoach
+DESCRIPTION:~20 Min\nTempo: hoch explosiv\, runter langsam · submaximal\n
+ \n• Liegestütze (explosiv hoch\, langsam runter) – 4×8–12\n• Kli
+ mmzüge – 3×submaximal\n• Hantel-Schulterdrücken – 3×10–12\n•
+  Dips an zwei Stühlen – 3×8–12\n• Plank – 2×40 s
 BEGIN:VALARM
-
-TRIGGER:PT17H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🏋️ W1 – Oberkörper komplett (Push-Akzent)
-
+TRIGGER:PT17H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-06-28-home@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🏋️ W2 – Beine & Explosiv
 DTSTART;VALUE=DATE:20260628
-
 DTEND;VALUE=DATE:20260629
-
-SUMMARY:🏋️ W2 – Beine & Explosiv
-
-DESCRIPTION:~20 Min\nTempo: hoch explosiv\, runter langsam · submaxima
-
- l\n\n• Squat Jumps / explosive Goblet Squats (1 Hantel) – 4×5\n• Bulg
-
- arian Split Squat (Hanteln\, Fuß auf Sofa) – 3×8/Bein\n• Einbeinige W
-
- adenheber (Hantel) – 3×12\n• Copenhagen Plank (Bein auf Stuhl) – 2×20
-
- –30 s/Seite
-
+DTSTAMP:20260628T213359Z
+UID:2026-06-28-home@garmincoach
+DESCRIPTION:~20 Min\nTempo: hoch explosiv\, runter langsam · submaximal\n
+ \n• Squat Jumps / explosive Goblet Squats (1 Hantel) – 4×5\n• Bulga
+ rian Split Squat (Hanteln\, Fuß auf Sofa) – 3×8/Bein\n• Einbeinige W
+ adenheber (Hantel) – 3×12\n• Copenhagen Plank (Bein auf Stuhl) – 2
+ ×20–30 s/Seite
 BEGIN:VALARM
-
-TRIGGER:PT17H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🏋️ W2 – Beine & Explosiv
-
+TRIGGER:PT17H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-06-29-home@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🏋️ W3 – Oberkörper komplett (Pull-Akzent)
 DTSTART;VALUE=DATE:20260629
-
 DTEND;VALUE=DATE:20260630
-
-SUMMARY:🏋️ W3 – Oberkörper komplett (Pull-Akzent)
-
-DESCRIPTION:~20 Min\nTempo: hoch explosiv\, runter langsam · submaxima
-
- l\n\n• Klimmzüge (explosiv hoch\, langsam runter) – 4×max\n• Liegestü
-
- tze (eng/Diamond) – 3×max\n• Hantel-Rudern vorgebeugt – 3×10–12/Arm\n
-
- • Superset Reverse Fly + Bizeps-Curls – 3×12\n• Hollow Hold – 2×30 s
-
- 
-
+DTSTAMP:20260628T213359Z
+UID:2026-06-29-home@garmincoach
+DESCRIPTION:~20 Min\nTempo: hoch explosiv\, runter langsam · submaximal\n
+ \n• Klimmzüge (explosiv hoch\, langsam runter) – 4×max\n• Liegest
+ ütze (eng/Diamond) – 3×max\n• Hantel-Rudern vorgebeugt – 3×10–1
+ 2/Arm\n• Superset Reverse Fly + Bizeps-Curls – 3×12\n• Hollow Hold 
+ – 2×30 s
 BEGIN:VALARM
-
-TRIGGER:PT17H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🏋️ W3 – Oberkörper komplett (Pull-Akzent)
-
+TRIGGER:PT17H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-01-home@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🏋️ W4 – Oberkörper + Core\, leicht
 DTSTART;VALUE=DATE:20260701
-
 DTEND;VALUE=DATE:20260702
-
-SUMMARY:🏋️ W4 – Oberkörper + Core\, leicht
-
-DESCRIPTION:~15–20 Min\nTempo: hoch explosiv\, runter langsam · submax
-
- imal\n\n• Liegestütze – 3×submaximal\n• Klimmzüge oder Hantel-Rudern 
-
- – 3×submaximal\n• Superset Seitheben + Curls – 2×12\n• Core-Zirkel (2
-
-  Runden): Plank 40 s · Side Plank 30 s/Seite · Beinheben 12
-
+DTSTAMP:20260628T213359Z
+UID:2026-07-01-home@garmincoach
+DESCRIPTION:~15–20 Min\nTempo: hoch explosiv\, runter langsam · submaxi
+ mal\n\n• Liegestütze – 3×submaximal\n• Klimmzüge oder Hantel-Rude
+ rn – 3×submaximal\n• Superset Seitheben + Curls – 2×12\n• Core-Z
+ irkel (2 Runden): Plank 40 s · Side Plank 30 s/Seite · Beinheben 12
 BEGIN:VALARM
-
-TRIGGER:PT17H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🏋️ W4 – Oberkörper + Core\, leicht
-
+TRIGGER:PT17H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-04-home@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🏋️ W1 – Oberkörper komplett (Push-Akzent)
 DTSTART;VALUE=DATE:20260704
-
 DTEND;VALUE=DATE:20260705
-
-SUMMARY:🏋️ W1 – Oberkörper komplett (Push-Akzent)
-
-DESCRIPTION:~20 Min\nTempo: hoch explosiv\, runter langsam · submaxima
-
- l\n\n• Liegestütze (explosiv hoch\, langsam runter) – 4×8–12\n• Klimm
-
- züge – 3×submaximal\n• Hantel-Schulterdrücken – 3×10–12\n• Dips an zw
-
- ei Stühlen – 3×8–12\n• Plank – 2×40 s
-
+DTSTAMP:20260628T213359Z
+UID:2026-07-04-home@garmincoach
+DESCRIPTION:~20 Min\nTempo: hoch explosiv\, runter langsam · submaximal\n
+ \n• Liegestütze (explosiv hoch\, langsam runter) – 4×8–12\n• Kli
+ mmzüge – 3×submaximal\n• Hantel-Schulterdrücken – 3×10–12\n•
+  Dips an zwei Stühlen – 3×8–12\n• Plank – 2×40 s
 BEGIN:VALARM
-
-TRIGGER:PT17H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🏋️ W1 – Oberkörper komplett (Push-Akzent)
-
+TRIGGER:PT17H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-06-home@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🛌 Ruhe / Mobility (Spiel schützen)
 DTSTART;VALUE=DATE:20260706
-
 DTEND;VALUE=DATE:20260707
-
-SUMMARY:🛌 Ruhe / Mobility (Spiel schützen)
-
+DTSTAMP:20260628T213359Z
+UID:2026-07-06-home@garmincoach
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-08-home@garmincoach
-
-DTSTAMP:20260627T171541Z
-
-DTSTART;VALUE=DATE:20260708
-
-DTEND;VALUE=DATE:20260709
-
 SUMMARY:🏋️ W4 – Oberkörper + Core\, leicht
-
-DESCRIPTION:~15–20 Min\nTempo: hoch explosiv\, runter langsam · submax
-
- imal\n\n• Liegestütze – 3×submaximal\n• Klimmzüge oder Hantel-Rudern 
-
- – 3×submaximal\n• Superset Seitheben + Curls – 2×12\n• Core-Zirkel (2
-
-  Runden): Plank 40 s · Side Plank 30 s/Seite · Beinheben 12
-
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+DTSTAMP:20260628T213359Z
+UID:2026-07-08-home@garmincoach
+DESCRIPTION:~15–20 Min\nTempo: hoch explosiv\, runter langsam · submaxi
+ mal\n\n• Liegestütze – 3×submaximal\n• Klimmzüge oder Hantel-Rude
+ rn – 3×submaximal\n• Superset Seitheben + Curls – 2×12\n• Core-Z
+ irkel (2 Runden): Plank 40 s · Side Plank 30 s/Seite · Beinheben 12
 BEGIN:VALARM
-
-TRIGGER:PT17H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🏋️ W4 – Oberkörper + Core\, leicht
-
+TRIGGER:PT17H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-13-home@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🏋️ W1 – Oberkörper komplett (Push-Akzent)
 DTSTART;VALUE=DATE:20260713
-
 DTEND;VALUE=DATE:20260714
-
-SUMMARY:🏋️ W1 – Oberkörper komplett (Push-Akzent)
-
-DESCRIPTION:~20 Min\nTempo: hoch explosiv\, runter langsam · submaxima
-
- l\n\n• Liegestütze (explosiv hoch\, langsam runter) – 4×8–12\n• Klimm
-
- züge – 3×submaximal\n• Hantel-Schulterdrücken – 3×10–12\n• Dips an zw
-
- ei Stühlen – 3×8–12\n• Plank – 2×40 s
-
+DTSTAMP:20260628T213359Z
+UID:2026-07-13-home@garmincoach
+DESCRIPTION:~20 Min\nTempo: hoch explosiv\, runter langsam · submaximal\n
+ \n• Liegestütze (explosiv hoch\, langsam runter) – 4×8–12\n• Kli
+ mmzüge – 3×submaximal\n• Hantel-Schulterdrücken – 3×10–12\n•
+  Dips an zwei Stühlen – 3×8–12\n• Plank – 2×40 s
 BEGIN:VALARM
-
-TRIGGER:PT17H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🏋️ W1 – Oberkörper komplett (Push-Akzent)
-
+TRIGGER:PT17H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-15-home@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🛌 Ruhe / Mobility (Spiel schützen)
 DTSTART;VALUE=DATE:20260715
-
 DTEND;VALUE=DATE:20260716
-
-SUMMARY:🛌 Ruhe / Mobility (Spiel schützen)
-
+DTSTAMP:20260628T213359Z
+UID:2026-07-15-home@garmincoach
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-20-home@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🏋️ W3 – Oberkörper komplett (Pull-Akzent)
 DTSTART;VALUE=DATE:20260720
-
 DTEND;VALUE=DATE:20260721
-
-SUMMARY:🏋️ W3 – Oberkörper komplett (Pull-Akzent)
-
-DESCRIPTION:~20 Min\nTempo: hoch explosiv\, runter langsam · submaxima
-
- l\n\n• Klimmzüge (explosiv hoch\, langsam runter) – 4×max\n• Liegestü
-
- tze (eng/Diamond) – 3×max\n• Hantel-Rudern vorgebeugt – 3×10–12/Arm\n
-
- • Superset Reverse Fly + Bizeps-Curls – 3×12\n• Hollow Hold – 2×30 s
-
- 
-
+DTSTAMP:20260628T213359Z
+UID:2026-07-20-home@garmincoach
+DESCRIPTION:~20 Min\nTempo: hoch explosiv\, runter langsam · submaximal\n
+ \n• Klimmzüge (explosiv hoch\, langsam runter) – 4×max\n• Liegest
+ ütze (eng/Diamond) – 3×max\n• Hantel-Rudern vorgebeugt – 3×10–1
+ 2/Arm\n• Superset Reverse Fly + Bizeps-Curls – 3×12\n• Hollow Hold 
+ – 2×30 s
 BEGIN:VALARM
-
-TRIGGER:PT17H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🏋️ W3 – Oberkörper komplett (Pull-Akzent)
-
+TRIGGER:PT17H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-22-home@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🏋️ W2 – Beine & Explosiv
 DTSTART;VALUE=DATE:20260722
-
 DTEND;VALUE=DATE:20260723
-
-SUMMARY:🏋️ W2 – Beine & Explosiv
-
-DESCRIPTION:~20 Min\nTempo: hoch explosiv\, runter langsam · submaxima
-
- l\n\n• Squat Jumps / explosive Goblet Squats (1 Hantel) – 4×5\n• Bulg
-
- arian Split Squat (Hanteln\, Fuß auf Sofa) – 3×8/Bein\n• Einbeinige W
-
- adenheber (Hantel) – 3×12\n• Copenhagen Plank (Bein auf Stuhl) – 2×20
-
- –30 s/Seite
-
+DTSTAMP:20260628T213359Z
+UID:2026-07-22-home@garmincoach
+DESCRIPTION:~20 Min\nTempo: hoch explosiv\, runter langsam · submaximal\n
+ \n• Squat Jumps / explosive Goblet Squats (1 Hantel) – 4×5\n• Bulga
+ rian Split Squat (Hanteln\, Fuß auf Sofa) – 3×8/Bein\n• Einbeinige W
+ adenheber (Hantel) – 3×12\n• Copenhagen Plank (Bein auf Stuhl) – 2
+ ×20–30 s/Seite
 BEGIN:VALARM
-
-TRIGGER:PT17H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🏋️ W2 – Beine & Explosiv
-
+TRIGGER:PT17H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-27-home@garmincoach
-
-DTSTAMP:20260627T171541Z
-
-DTSTART;VALUE=DATE:20260727
-
-DTEND;VALUE=DATE:20260728
-
 SUMMARY:🏋️ W1 – Oberkörper komplett (Push-Akzent)
-
-DESCRIPTION:~20 Min\nTempo: hoch explosiv\, runter langsam · submaxima
-
- l\n\n• Liegestütze (explosiv hoch\, langsam runter) – 4×8–12\n• Klimm
-
- züge – 3×submaximal\n• Hantel-Schulterdrücken – 3×10–12\n• Dips an zw
-
- ei Stühlen – 3×8–12\n• Plank – 2×40 s
-
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+DTSTAMP:20260628T213359Z
+UID:2026-07-27-home@garmincoach
+DESCRIPTION:~20 Min\nTempo: hoch explosiv\, runter langsam · submaximal\n
+ \n• Liegestütze (explosiv hoch\, langsam runter) – 4×8–12\n• Kli
+ mmzüge – 3×submaximal\n• Hantel-Schulterdrücken – 3×10–12\n•
+  Dips an zwei Stühlen – 3×8–12\n• Plank – 2×40 s
 BEGIN:VALARM
-
-TRIGGER:PT17H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🏋️ W1 – Oberkörper komplett (Push-Akzent)
-
+TRIGGER:PT17H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-07-29-home@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🏋️ W2 – Beine & Explosiv
 DTSTART;VALUE=DATE:20260729
-
 DTEND;VALUE=DATE:20260730
-
-SUMMARY:🏋️ W2 – Beine & Explosiv
-
-DESCRIPTION:~20 Min\nTempo: hoch explosiv\, runter langsam · submaxima
-
- l\n\n• Squat Jumps / explosive Goblet Squats (1 Hantel) – 4×5\n• Bulg
-
- arian Split Squat (Hanteln\, Fuß auf Sofa) – 3×8/Bein\n• Einbeinige W
-
- adenheber (Hantel) – 3×12\n• Copenhagen Plank (Bein auf Stuhl) – 2×20
-
- –30 s/Seite
-
+DTSTAMP:20260628T213359Z
+UID:2026-07-29-home@garmincoach
+DESCRIPTION:~20 Min\nTempo: hoch explosiv\, runter langsam · submaximal\n
+ \n• Squat Jumps / explosive Goblet Squats (1 Hantel) – 4×5\n• Bulga
+ rian Split Squat (Hanteln\, Fuß auf Sofa) – 3×8/Bein\n• Einbeinige W
+ adenheber (Hantel) – 3×12\n• Copenhagen Plank (Bein auf Stuhl) – 2
+ ×20–30 s/Seite
 BEGIN:VALARM
-
-TRIGGER:PT17H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🏋️ W2 – Beine & Explosiv
-
+TRIGGER:PT17H
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-08-01-home@garmincoach
-
-DTSTAMP:20260627T171541Z
-
+SUMMARY:🛌 Ruhe / Mobility (Spiel schützen)
 DTSTART;VALUE=DATE:20260801
-
 DTEND;VALUE=DATE:20260802
-
-SUMMARY:🛌 Ruhe / Mobility (Spiel schützen)
-
+DTSTAMP:20260628T213359Z
+UID:2026-08-01-home@garmincoach
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-08-03-home@garmincoach
-
-DTSTAMP:20260627T171541Z
-
-DTSTART;VALUE=DATE:20260803
-
-DTEND;VALUE=DATE:20260804
-
 SUMMARY:🏋️ W3 – Oberkörper komplett (Pull-Akzent)
-
-DESCRIPTION:~20 Min\nTempo: hoch explosiv\, runter langsam · submaxima
-
- l\n\n• Klimmzüge (explosiv hoch\, langsam runter) – 4×max\n• Liegestü
-
- tze (eng/Diamond) – 3×max\n• Hantel-Rudern vorgebeugt – 3×10–12/Arm\n
-
- • Superset Reverse Fly + Bizeps-Curls – 3×12\n• Hollow Hold – 2×30 s
-
- 
-
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+DTSTAMP:20260628T213359Z
+UID:2026-08-03-home@garmincoach
+DESCRIPTION:~20 Min\nTempo: hoch explosiv\, runter langsam · submaximal\n
+ \n• Klimmzüge (explosiv hoch\, langsam runter) – 4×max\n• Liegest
+ ütze (eng/Diamond) – 3×max\n• Hantel-Rudern vorgebeugt – 3×10–1
+ 2/Arm\n• Superset Reverse Fly + Bizeps-Curls – 3×12\n• Hollow Hold 
+ – 2×30 s
 BEGIN:VALARM
-
-TRIGGER:PT17H
-
 ACTION:DISPLAY
-
 DESCRIPTION:🏋️ W3 – Oberkörper komplett (Pull-Akzent)
-
-END:VALARM
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-UID:2026-08-05-home@garmincoach
-
-DTSTAMP:20260627T171541Z
-
-DTSTART;VALUE=DATE:20260805
-
-DTEND;VALUE=DATE:20260806
-
-SUMMARY:🏋️ W2 – Beine & Explosiv
-
-DESCRIPTION:~20 Min\nTempo: hoch explosiv\, runter langsam · submaxima
-
- l\n\n• Squat Jumps / explosive Goblet Squats (1 Hantel) – 4×5\n• Bulg
-
- arian Split Squat (Hanteln\, Fuß auf Sofa) – 3×8/Bein\n• Einbeinige W
-
- adenheber (Hantel) – 3×12\n• Copenhagen Plank (Bein auf Stuhl) – 2×20
-
- –30 s/Seite
-
-BEGIN:VALARM
-
 TRIGGER:PT17H
-
-ACTION:DISPLAY
-
-DESCRIPTION:🏋️ W2 – Beine & Explosiv
-
 END:VALARM
-
 END:VEVENT
-
 BEGIN:VEVENT
-
-UID:2026-08-08-home@garmincoach
-
-DTSTAMP:20260627T171541Z
-
-DTSTART;VALUE=DATE:20260808
-
-DTEND;VALUE=DATE:20260809
-
-SUMMARY:🛌 Ruhe / Mobility (Spiel schützen)
-
+SUMMARY:🏋️ W2 – Beine & Explosiv
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+DTSTAMP:20260628T213359Z
+UID:2026-08-05-home@garmincoach
+DESCRIPTION:~20 Min\nTempo: hoch explosiv\, runter langsam · submaximal\n
+ \n• Squat Jumps / explosive Goblet Squats (1 Hantel) – 4×5\n• Bulga
+ rian Split Squat (Hanteln\, Fuß auf Sofa) – 3×8/Bein\n• Einbeinige W
+ adenheber (Hantel) – 3×12\n• Copenhagen Plank (Bein auf Stuhl) – 2
+ ×20–30 s/Seite
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏋️ W2 – Beine & Explosiv
+TRIGGER:PT17H
+END:VALARM
 END:VEVENT
-
+BEGIN:VEVENT
+SUMMARY:🛌 Ruhe / Mobility (Spiel schützen)
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+DTSTAMP:20260628T213359Z
+UID:2026-08-08-home@garmincoach
+END:VEVENT
 END:VCALENDAR
-
